@@ -1,0 +1,3 @@
+console.log(getAllProducts); // Isso deve mostrar a função ou 'undefined'
+console.log(addProduct);
+console.log(deleteProduct);
