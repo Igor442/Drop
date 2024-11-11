@@ -1,3 +1,3 @@
 module.exports = {
-    url: 'mongodb://localhost:27017/dropshipping'
+    url: 'mongodb+srv://Igoryuji9:LOUD@cluster0.mongodb.net/dropshipping?retryWrites=true&w=majority'
 };
